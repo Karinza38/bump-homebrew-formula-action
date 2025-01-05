@@ -1,4 +1,4 @@
-A minimal GitHub action that uses the GitHub API to bump a Homebrew formula
+ A minimal GitHub action that uses the GitHub API to bump a Homebrew formula
 after a new release in your repository.
 
 Usage example:
